@@ -1,0 +1,1 @@
+// Job search and CRUD UI handlers are centralized in app.js.

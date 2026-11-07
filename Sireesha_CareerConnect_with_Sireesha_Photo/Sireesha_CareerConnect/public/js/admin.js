@@ -1,0 +1,1 @@
+// Admin dashboard handlers are centralized in app.js.

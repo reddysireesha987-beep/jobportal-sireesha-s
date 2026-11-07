@@ -1,0 +1,1 @@
+// Employer dashboard handlers are centralized in app.js.

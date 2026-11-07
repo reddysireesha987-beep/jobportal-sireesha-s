@@ -1,0 +1,1 @@
+// Authentication form handling is centralized in app.js for this single-page dashboard.
